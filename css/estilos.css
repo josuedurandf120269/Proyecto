@@ -10,12 +10,9 @@ display:-webkit-box;
 display:-moz-box;
 -moz-box-orient:vertical;
 -moz-box-align:stretch;
-
 }
 
 div.section{
-
-
 margin-left: 20%;
 margin-top: -30%;
 }
@@ -23,18 +20,13 @@ margin-top: -30%;
 h1.header{
 margin: auto;
 width: 50%;
-color:white;
-font-family: arial;
 }
-h3{
-font-family: arial;
-color: white;
-background-color: black;
-}
+
+h1{margin: 0 auto;
+  width: 50%}
 
 header{
 margin-top: 5%;
-background-color: black;
 }
 
 img#mapa{
@@ -48,5 +40,18 @@ border-bottom: 2px solid;
 
 }
 
-
+ 
+      
+	body   {  
+				background-image: url("img/fondo.jpg");
+			text-align: justify;
+			}
+    
+	#container {
+				width: 960px;
+				margin: 0 auto; 
+				}
+				
+		
+	
 
