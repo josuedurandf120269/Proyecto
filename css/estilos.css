@@ -1,0 +1,43 @@
+aside{
+height:50%;
+margin-right:75% ;
+display: box;
+box-orient:vertical;
+box-align:stretch;
+display:-webkit-box;
+-webkit-box-orient:vertical;
+-webkit-box-align:stretch;
+display:-moz-box;
+-moz-box-orient:vertical;
+-moz-box-align:stretch;
+}
+
+div.section{
+
+
+margin-left: 20%;
+margin-top: -30%;
+}
+
+h1.header{
+margin: auto;
+width: 50%;
+}
+
+header{
+margin-top: 5%;
+}
+
+img#mapa{
+width: 700px;
+height: 392px;
+
+}
+
+header,footer{
+border-bottom: 2px solid;
+
+}
+
+
+
