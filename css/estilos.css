@@ -10,6 +10,7 @@ display:-webkit-box;
 display:-moz-box;
 -moz-box-orient:vertical;
 -moz-box-align:stretch;
+
 }
 
 div.section{
@@ -22,10 +23,18 @@ margin-top: -30%;
 h1.header{
 margin: auto;
 width: 50%;
+color:white;
+font-family: arial;
+}
+h3{
+font-family: arial;
+color: white;
+background-color: black;
 }
 
 header{
 margin-top: 5%;
+background-color: black;
 }
 
 img#mapa{
