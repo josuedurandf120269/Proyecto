@@ -1,57 +1,47 @@
-aside{
-height:50%;
-margin-right:75% ;
-display: box;
-box-orient:vertical;
-box-align:stretch;
-display:-webkit-box;
--webkit-box-orient:vertical;
--webkit-box-align:stretch;
-display:-moz-box;
--moz-box-orient:vertical;
--moz-box-align:stretch;
+footer{
+margin-top: -2%;
+background-color: #1EB53A;
 }
 
 div.section{
-margin-left: 20%;
-margin-top: -30%;
-}
-
-h1.header{
 margin: auto;
-width: 50%;
+background-color: #2B2B28;
+height: 550px;
 }
 
-h1{margin: 0 auto;
-  width: 50%}
+
+}
+ 
+h3{
+font-family: arial;
+}
+ 
+p.header{
+margin-left: 30% ;
+width: 50%;
+font-family: arial;
+position: relative;
+top: 70px;
+text-shadow: 5px 5px 5px white;
+font-size: 70px;
+}
 
 header{
-margin-top: 5%;
+margin-top: -5%;
+
+background-color: #1EB53A;
+height: 150px;
+}
+
+body{
+background-color: #DDDBD1;
 }
 
 img#mapa{
+margin-top: 5%;
 width: 700px;
 height: 392px;
-
+margin-left: 23%;
+border: 10px solid #0089AF ;
+border-radius: 50px;
 }
-
-header,footer{
-border-bottom: 2px solid;
-
-}
-
- 
-      
-	body   {  
-				background-image: url("img/fondo.jpg");
-			text-align: justify;
-			}
-    
-	#container {
-				width: 960px;
-				margin: 0 auto; 
-				}
-				
-		
-	
-
