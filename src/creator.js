@@ -1,14 +1,6 @@
 
 
-
-
-
-
-
- 
 function vdep (departamento) {
-
-
 
  switch(departamento){
  case "santa_ana" :
